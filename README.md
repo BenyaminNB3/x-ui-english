@@ -1,3 +1,10 @@
+
+# Single Command Install & upgrade
+
+````
+bash <(curl -Ls https://raw.githubusercontent.com/BenyaminNB3/x-ui-english/master/install.sh)
+````
+
 # X-UI ENGLISH VERSION 
 [For X-UI FARSI VERSION](README-fa.md)
 
@@ -31,11 +38,6 @@ kind a fork from [taffychan's x-ui](https://github.com/taffychan/x-ui) + [hossin
 # Telegram Bot Preview (Currently, only for V0.2)
 ![](media/TGBot1.PNG)![](media/TGBot2.PNG)
 
-# Single Command Install & upgrade
-
-````
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
-````
 
 ## Manual install & upgrade
 
